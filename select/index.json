@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "The River",
+  "base_artist": "Axel Johansson",
+  "createdAt": "2025-12-28T11:10:21.290023Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The River",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": false,
+      "path": "select/01_The_River_King_Gizzard_&_The_Lizard_Wizard.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The River",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/02_The_River_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The River - Live in Luxembourg ’19",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/03_The_River_-_Live_in_Luxembourg_’19_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The River (Live in Luxembourg '19)",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/04_The_River_(Live_in_Luxembourg_'19)_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Down On the River",
+      "artist": "Alabama",
+      "has_synced": true,
+      "path": "select/05_Down_On_the_River_Alabama.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The River Knows",
+      "artist": "Molly Tuttle",
+      "has_synced": false,
+      "path": "select/06_The_River_Knows_Molly_Tuttle.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Down By The River",
+      "artist": "Moi Caprice",
+      "has_synced": false,
+      "path": "select/07_Down_By_The_River_Moi_Caprice.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Moonlight on the River",
+      "artist": "Mac DeMarco",
+      "has_synced": true,
+      "path": "select/08_Moonlight_on_the_River_Mac_DeMarco.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sandy the River Demon",
+      "artist": "Monkey",
+      "has_synced": false,
+      "path": "select/09_Sandy_the_River_Demon_Monkey.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The River",
+      "artist": "Marz",
+      "has_synced": false,
+      "path": "select/10_The_River_Marz.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The River",
+      "artist": "März",
+      "has_synced": false,
+      "path": "select/11_The_River_März.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Down by the River - 2009 Remaster",
+      "artist": "Neil Young & Crazy Horse",
+      "has_synced": false,
+      "path": "select/12_Down_by_the_River_-_2009_Remaster_Neil_Young_&_Crazy_Horse.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Down By the River",
+      "artist": "Neil Young",
+      "has_synced": false,
+      "path": "select/13_Down_By_the_River_Neil_Young.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Down the River of Golden Dreams",
+      "artist": "Okkervil River",
+      "has_synced": false,
+      "path": "select/14_Down_the_River_of_Golden_Dreams_Okkervil_River.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The River",
+      "artist": "The Other Two",
+      "has_synced": false,
+      "path": "select/15_The_River_The_Other_Two.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Jump in the River",
+      "artist": "Sinéad O'Connor",
+      "has_synced": true,
+      "path": "select/16_Jump_in_the_River_Sinéad_O'Connor.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Jump in the River",
+      "artist": "Sinéad O’Connor",
+      "has_synced": true,
+      "path": "select/17_Jump_in_the_River_Sinéad_O’Connor.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "The River",
+      "artist": "Brian Eno",
+      "has_synced": false,
+      "path": "select/18_The_River_Brian_Eno.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The River",
+      "artist": "Axel Johansson",
+      "has_synced": false,
+      "path": "select/pl_01_The_River_Axel_Johansson.txt"
+    }
+  ]
+}
